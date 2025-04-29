@@ -1,11 +1,6 @@
-<div class="_________">
-  
-  <!-- Title of the poster -->
-  <h1>_________</h1>
-
-  <!-- Subtitle or slogan -->
-  <h3>_________</h3>
-
-  <!-- Body text -->
-  <p>_________</p>
-
+{
+  width: 100px;
+  padding: 10px;
+  border: 10px solid black;
+  margin: 5px;
+  background-color: blue;
