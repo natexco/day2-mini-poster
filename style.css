@@ -5,19 +5,19 @@
   margin: 5px;
   background-color: blue;
 h1 {
-  font-size: 30;
+  font-size: 30px;
   text-align: center;
   color: black;
 }
 
 h3 {
-  font-size: 25;
+  font-size: 25px;
   text-align: center;
   color: grey;
 }
 
 p {
-  font-size: monospace;
-  text-align: relative;
+  font-size: 20px;
+  text-align: center;
   color: black;
 }
