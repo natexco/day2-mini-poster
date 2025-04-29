@@ -4,3 +4,20 @@
   border: 10px solid black;
   margin: 5px;
   background-color: blue;
+h1 {
+  font-size: 30;
+  text-align: center;
+  color: black;
+}
+
+h3 {
+  font-size: 25;
+  text-align: center;
+  color: grey;
+}
+
+p {
+  font-size: monospace;
+  text-align: relative;
+  color: black;
+}
